@@ -1,5 +1,3 @@
-Semester 4 - Project
-
 import streamlit as st
 import pandas as pd
 import glob
@@ -56,4 +54,5 @@ fig.add_layout_image(
          sizing="stretch", layer="below")
 )
 fig.update_layout(width=900, height=900, xaxis_visible=False, yaxis_visible=False)
+
 st.plotly_chart(fig)
