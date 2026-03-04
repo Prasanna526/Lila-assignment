@@ -1,0 +1,20 @@
+MAP_CONFIG = {
+    "AmbroseValley": {
+        "scale": 900, 
+        "origin_x": -370, 
+        "origin_z": -473, 
+        "img": "minimaps/AmbroseValley_Minimap.png"
+    },
+    "GrandRift": {
+        "scale": 581, 
+        "origin_x": -290, 
+        "origin_z": -290, 
+        "img": "minimaps/GrandRift_Minimap.png"
+    },
+    "Lockdown": {
+        "scale": 1000, 
+        "origin_x": -500, 
+        "origin_z": -500, 
+        "img": "minimaps/Lockdown_Minimap.jpg"
+    }
+}
